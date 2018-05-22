@@ -1,1 +1,2 @@
 to jest dokument.
+to jest pierwsza zmiana.
